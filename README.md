@@ -10,7 +10,6 @@
 사용 언어: C#
 출시 플랫폼: PC (Windows Standalone)
 담당 역할: 기획, 프로그래밍, UI 구성, 테스트, 빌드 (1인 개발)
-플레이 영상 또는 스크린샷
 
 <img width="1919" height="1079" alt="screenshot_01" src="https://github.com/user-attachments/assets/a0430bf9-c4fb-4fe9-8efa-e6a8d7411d5c" />
 
